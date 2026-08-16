@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">cycani.org</domain>
+        <domain includeSubdomains="true">cycity.pro</domain>
+        <domain includeSubdomains="true">cycmedia.net</domain>
+        <domain includeSubdomains="true">cycimg.me</domain>
+        <domain includeSubdomains="true">cycanime.com</domain>
+    </domain-config>
+</network-security-config>

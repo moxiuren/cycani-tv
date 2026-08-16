@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 冷启动窗口:品牌深色渐变,替代纯黑,视觉不刺眼 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="270"
+        android:startColor="#FF10131C"
+        android:centerColor="#FF12151E"
+        android:endColor="#FF141820" />
+</shape>

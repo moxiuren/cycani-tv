@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CyciTv" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+        <item name="android:colorAccent">#FF7AA2FF</item>
+        <!-- 启动画面比 App 内容更早出现,给用户即时反馈 -->
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

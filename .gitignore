@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+app/build/
+.kotlin/
+
+# Android Studio / IDE
+.idea/
+*.iml
+local.properties
+
+# OS
+.DS_Store
+
+# 日志/临时
+*.logHANDOFF_AGY.md
